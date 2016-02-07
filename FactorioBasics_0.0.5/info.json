@@ -1,0 +1,10 @@
+{
+    "name": "FactorioBasics",
+    "version": "0.0.5",
+	"date": "2016-02-08",
+    "title": "FactorioBasics",
+    "author": "Nath Gamer",
+	"homepage": "",
+    "description": "Extended Factorio",
+	"dependencies": ["base"]
+}
