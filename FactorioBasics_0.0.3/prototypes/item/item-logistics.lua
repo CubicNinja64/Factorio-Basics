@@ -1,0 +1,22 @@
+data:extend({
+  {
+    type = "item",
+    name = "roboport-mk2",
+    icon = "__FactorioBasics__/graphics/icons/roboport-mk2.png",
+    flags = {"goes-to-quickbar"},
+    subgroup = "fb-logistics",
+    order = "a-a",
+    place_result = "roboport-mk2",
+    stack_size = 5
+  },
+  {
+    type = "item",
+    name = "roboport-mk3",
+    icon = "__FactorioBasics__/graphics/icons/roboport-mk3.png",
+    flags = {"goes-to-quickbar"},
+    subgroup = "fb-logistics",
+    order = "a-b",
+    place_result = "roboport-mk3",
+    stack_size = 5
+  }
+})
