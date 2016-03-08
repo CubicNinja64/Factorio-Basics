@@ -1,0 +1,10 @@
+{
+    "name": "FactorioBasics-Logistics",
+    "version": "0.1.3",
+	"date": "2016-03-4",
+    "title": "FactorioBasics-Logistics",
+    "author": "Nath Gamer",
+	"homepage": "http://www.factorioforums.com/forum/viewtopic.php?f=93&t=19836",
+    "description": "Extended Factorio",
+	"dependencies": ["base", "FactorioBasics-Core >= 0.1.3"]
+}
