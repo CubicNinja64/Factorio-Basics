@@ -1,0 +1,10 @@
+{
+    "name": "FactorioBasics-Equipment",
+    "version": "0.0.9",
+	"date": "2016-02-08",
+    "title": "FactorioBasics-Equipment",
+    "author": "Nath Gamer",
+	"homepage": "http://www.factorioforums.com/forum/viewtopic.php?f=93&t=19836",
+    "description": "Extended Factorio",
+	"dependencies": ["base", "FactorioBasics-Core >= 0.0.9"]
+}
